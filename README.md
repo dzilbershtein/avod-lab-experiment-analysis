@@ -2,7 +2,7 @@
 
 This repository reproduces every number, table and figure in the paper (Experiment 1) from the
 de-identified export of the experimental platform. The pre-registration, with item wordings, the
-power analysis and the full analysis plan, is at https://osf.io/sjrgf.
+power analysis and the full analysis plan, is at https://osf.io/sjrgf/overview?view_only=183d07bed7c24c7ca0266617fea20c3c (view-only link).
 
 ## Reproduce the results
 
