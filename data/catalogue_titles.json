@@ -1,0 +1,97 @@
+{
+ "big_buck_bunny": {
+  "title": "Big Buck Bunny",
+  "year": 2008,
+  "relevant_ad_category": "content_chameleon"
+ },
+ "blood_on_sun": {
+  "title": "Blood on the Sun",
+  "year": 1945,
+  "relevant_ad_category": "thrill_seeker"
+ },
+ "captain_kidd": {
+  "title": "Captain Kidd",
+  "year": 1945,
+  "relevant_ad_category": "thrill_seeker"
+ },
+ "detour_1945": {
+  "title": "Detour",
+  "year": 1945,
+  "relevant_ad_category": "investigative_viewer"
+ },
+ "doa_1950": {
+  "title": "D.O.A.",
+  "year": 1950,
+  "relevant_ad_category": "investigative_viewer"
+ },
+ "elephant_dream": {
+  "title": "Elephant's Dream",
+  "year": 2006,
+  "relevant_ad_category": "intellectual_explorer"
+ },
+ "hemo_magnificent": {
+  "title": "Hemo the Magnificent",
+  "year": 1957,
+  "relevant_ad_category": "intellectual_explorer"
+ },
+ "his_girl_friday": {
+  "title": "His Girl Friday",
+  "year": 1940,
+  "relevant_ad_category": "content_chameleon"
+ },
+ "inspector_general": {
+  "title": "The Inspector General",
+  "year": 1949,
+  "relevant_ad_category": "content_chameleon"
+ },
+ "jack_beanstalk": {
+  "title": "Jack and the Beanstalk",
+  "year": 1952,
+  "relevant_ad_category": "content_chameleon"
+ },
+ "jackie_robinson": {
+  "title": "The Jackie Robinson Story",
+  "year": 1950,
+  "relevant_ad_category": "thrill_seeker"
+ },
+ "jigsaw_1949": {
+  "title": "Jigsaw",
+  "year": 1949,
+  "relevant_ad_category": "investigative_viewer"
+ },
+ "pied_piper": {
+  "title": "The Pied Piper of Hamelin",
+  "year": 1957,
+  "relevant_ad_category": "content_chameleon"
+ },
+ "pioneer_one": {
+  "title": "Pioneer One",
+  "year": 2010,
+  "relevant_ad_category": "intellectual_explorer"
+ },
+ "sintel": {
+  "title": "Sintel",
+  "year": 2010,
+  "relevant_ad_category": "intellectual_explorer"
+ },
+ "sprite_fright": {
+  "title": "Sprite Fright",
+  "year": 2021,
+  "relevant_ad_category": "thrill_seeker"
+ },
+ "suddenly_1954": {
+  "title": "Suddenly",
+  "year": 1954,
+  "relevant_ad_category": "investigative_viewer"
+ },
+ "tears_of_steel": {
+  "title": "Tears of Steel",
+  "year": 2012,
+  "relevant_ad_category": "intellectual_explorer"
+ },
+ "unchained_goddess": {
+  "title": "The Unchained Goddess",
+  "year": 1958,
+  "relevant_ad_category": "intellectual_explorer"
+ }
+}
